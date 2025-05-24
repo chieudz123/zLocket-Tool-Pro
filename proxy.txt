@@ -1,4 +1,6 @@
 # Dán proxy vô đây (trên 300 proxy càng nhiều càng tốt)
 # Ví dụ http://123.123.123:9999 hoặc 123.123.123
-:sudo apt install -y python3-pip
+:sudo apt install -y python3-pip 
+install -r requirements.txt
+
 
